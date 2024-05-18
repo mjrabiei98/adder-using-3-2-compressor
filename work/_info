@@ -1,0 +1,233 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA3\q1
+Eadder6to2
+Z0 w1716002783
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA3\q2
+Z6 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl
+Z7 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl
+l0
+L5
+V3SnRYB3eIzLLS:GS02?c?2
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1716002786.292000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl|
+Z11 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 ==M;K0d5zS7WQ<FDI`KPn2
+!i10b 1
+Aadder_tree
+Z14 DEx4 work 13 compressor3_2 0 22 52>2:;F<IOBjBQi3dF?BI1
+R1
+R2
+R3
+R4
+Z15 DEx4 work 9 adder6to2 0 22 3SnRYB3eIzLLS:GS02?c?2
+l55
+L43
+VFHl`=M6:E`K[]m`<CNAkf3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 7eY=<M?XPJMQPMd6<jU]V0
+!i10b 1
+Alinear
+R14
+R1
+R2
+R3
+R4
+R15
+l28
+L15
+VZi1Y;mmF800VNSHAX^NaL1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 1bC_9zPlBCD>GhKBbd5Fz3
+!i10b 1
+Eadder6tw2
+Z16 w1716002971
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L5
+VT5<;R2PcOT7EK9hg48k:<0
+!s100 koPVF?o4NCmQYadSoXh><0
+R8
+32
+!i10b 1
+Z17 !s108 1716017034.232000
+R10
+Z18 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl|
+R12
+R13
+Aadder_tree
+R14
+R1
+R2
+R3
+R4
+Z19 DEx4 work 9 adder6tw2 0 22 T5<;R2PcOT7EK9hg48k:<0
+l55
+L43
+Z20 VG0`m`N1RcC]H^Td_EK;6^0
+Z21 !s100 H^<I8OngBYlkf6ZOL7@;<1
+R8
+32
+!i10b 1
+R17
+R10
+R18
+R12
+R13
+Alinear
+R14
+R1
+R2
+R3
+R4
+R19
+l28
+L15
+Z22 VnNVMYX2Ic<XngUXTKm2Ta2
+Z23 !s100 1^0m1<Ei[0KSBMO3U;WWI3
+R8
+32
+!i10b 1
+R17
+R10
+R18
+R12
+R13
+Ecompressor3_2
+Z24 w1716017029
+R3
+R4
+R5
+Z25 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl
+Z26 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl
+l0
+L20
+V52>2:;F<IOBjBQi3dF?BI1
+R8
+32
+Z27 !s108 1716017034.121000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl|
+Z29 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl|
+R12
+R13
+!s100 EDGNl@_I>i5325hAZX;EI1
+!i10b 1
+Abehavioral
+Z30 DEx4 work 2 fa 0 22 _4fRYa5mheF_R=g`nRZQ]3
+R3
+R4
+R14
+l29
+L28
+V6j>=gC1d[J@gAWF2cOIjN2
+R8
+32
+R27
+R28
+R29
+R12
+R13
+!s100 l<oeD5WmQK:W11FVSSm0U1
+!i10b 1
+Efa
+R24
+R3
+R4
+R5
+R25
+R26
+l0
+L4
+V_4fRYa5mheF_R=g`nRZQ]3
+R8
+32
+R27
+R28
+R29
+R12
+R13
+!s100 mZ::WVZG?5MkJiP;9e]:`1
+!i10b 1
+Abehavioral
+R3
+R4
+R30
+l12
+L11
+VPHf7CXzk3[k3PI>NndSmn3
+R8
+32
+R27
+R28
+R29
+R12
+R13
+!s100 oYW6QNO?Y4L2EWcGm;@eC3
+!i10b 1
+Etb
+Z31 w1716003907
+R3
+R4
+R5
+Z32 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl
+Z33 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl
+l0
+L4
+VbGENo4Y[SDP:PFA=16bc71
+R8
+32
+Z34 !s108 1716017034.184000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl|
+Z36 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl|
+R12
+R13
+!s100 UhA;aJdakLhndFHH4Vza13
+!i10b 1
+Aarch
+DPx3 std 3 env 0 22 kU@g3bh3dSQ6SKX7=V`LE3
+R1
+R2
+R15
+R3
+R4
+DEx4 work 2 tb 0 22 bGENo4Y[SDP:PFA=16bc71
+l9
+L5
+VbiYITBC43dCzXBC^UmOaB3
+!s100 aK0mT=W?KiIK5gSKFW@1=1
+R8
+32
+R34
+R35
+R36
+R12
+R13
+!i10b 1

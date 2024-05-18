@@ -1,0 +1,37 @@
+{C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl} {1 {vcom -work work -2002 -explicit {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/adder6t02.vhdl}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity adder6tw2
+-- Compiling architecture linear of adder6tw2
+-- Loading entity compressor3_2
+-- Compiling architecture adder_tree of adder6tw2
+-- Loading entity adder6tw2
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl} {1 {vcom -work work -2002 -explicit {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/testbench.vhdl}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb
+-- Compiling architecture arch of tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity adder6to2
+-- Loading package ENV
+
+} {} {}} {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl} {1 {vcom -work work -2002 -explicit {C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA3/q2/elements.vhdl}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FA
+-- Compiling architecture behavioral of FA
+-- Compiling entity compressor3_2
+-- Compiling architecture behavioral of compressor3_2
+-- Loading entity FA
+
+} {} {}}
